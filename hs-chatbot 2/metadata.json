@@ -1,0 +1,10 @@
+{
+  "name": "HS Chatbot",
+  "description": "A premium, SaaS-level AI chatbot platform powered by Gemini with Firebase Authentication, Realtime Database, file uploads, voice inputs, and an Admin dashboard.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
